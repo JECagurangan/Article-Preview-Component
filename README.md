@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/scss-bem-architecture-vanilla-javascript-40cmRFWy2](https://www.frontendmentor.io/solutions/scss-bem-architecture-vanilla-javascript-40cmRFWy2)
-- Live Site URL: [je-article-preview-component.netlify.app](https://je-article-preview-component.netlify.app/)
+- Live Site URL: [https://je-article-preview-component.netlify.app/](https://je-article-preview-component.netlify.app/)
 
 ## My process
 
@@ -68,11 +68,6 @@ transition: height 0.5s ease-in-out;
 const shareButtonSVG = shareButton.childNodes[1];
 const shareButtonPath = shareButtonSVG.childNodes[0];
 ```
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
